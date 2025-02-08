@@ -15,7 +15,7 @@ const Flivos = () => {
         <div className="lg:w-1/2 w-full">
           <div className="w-full aspect-video bg-gray-100 rounded-lg overflow-hidden">
             <iframe
-              src="https://www.youtube.com/embed/Zz_1B6WXV-E"
+              src="https://flivo.ai/wp-content/uploads/2024/09/flivo-final.mp4"
               title="Onboarding Video"
               className="w-full h-full"
               frameBorder="0"
@@ -31,13 +31,13 @@ const Flivos = () => {
             Welcome to your onboarding session!
           </h2>
           <p className="text-gray-600 mb-2">
-            Let's get you started with deploying your first crew and connecting
+            Let's get you started with deploying your first flivo and connecting
             your GitHub account.
           </p>
           <p className="text-gray-600">
             In the video on the left, we'll walk you through the process of
-            creating a new crew, selecting it, and automatically turning it into
-            an API endpoint.
+            creating a new flivo, selecting it, and automatically turning it
+            into an API endpoint.
           </p>
         </div>
       </div>
